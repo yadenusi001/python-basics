@@ -45,7 +45,7 @@ weird_word = 'Weird'
 match = (weird_word =='weird')
 print (match)
 #9
-false
+
 #10
 variable1 = 35 / 7
 variable2 = 15 ** 3

@@ -24,12 +24,9 @@
 # Create empty list 
 1. student_records to store all student data
 
-# Student Entry Loop
-1. While user wants to continue:
+# Student Entry  While Loop
 1. Prompt user to enter student name
-1. Format name to capitalize first letters
 1. Prompt user to enter student score
-1. Convert input to float
 1. Validate that score is between 0 and 100
 1. If invalid, display error message and prompt again
 1. Calculate student grade
